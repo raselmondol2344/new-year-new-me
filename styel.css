@@ -129,3 +129,48 @@
     font-weight: bold;
     margin-right: 5px;
 }
+
+
+
+
+.plan h2 {
+    text-align: center;
+    padding: 10px;
+   font-size: 40px;
+   color: #151414d8;
+   font-weight: 600;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.plans-logo {
+    /* background-color: yellow; */
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+   margin-top: 40px;
+   margin-bottom: 30px;
+
+}
+
+.plans-logo .logo {
+    margin-right: 100px;
+}
+
+
+.plans-logo .logo img {
+    height: 50px;
+    width: 50px;
+    
+}
+
+.plans-logo .logo  h3 {
+    font-size: 20px;
+    color: #151414d8;
+}
+
+.plans-logo .logo p {
+    font-size: 16px;
+    color: #737272;
+}
+
